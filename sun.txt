@@ -1,1 +1,3 @@
 The sun is a hot, giant ball of gas.
+
+Earth is ~98e6 miles away.
