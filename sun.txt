@@ -1,3 +1,5 @@
 The sun is a hot, giant ball of gas.
 
 Earth is ~98e6 miles away.
+
+It takes like ~8 minutes to travel here.
